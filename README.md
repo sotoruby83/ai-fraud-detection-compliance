@@ -10,7 +10,8 @@ This project demonstrates a generative AI-powered fraud detection system using s
 - Built a fraud detection model  
 - Integrated compliance workflow  
 - Evaluated performance and accuracy  
-- Visualized fraud patterns using behavioral data  
+- Visualized fraud patterns using behavioral data
+
 
 ---
 
@@ -29,7 +30,7 @@ This project demonstrates a generative AI-powered fraud detection system using s
 ### 🌙 Fraud by Time of Day
 ![Fraud by Time](fraud_by_time_of_day.png)
 
-Fraud increases during nighttime transactions, indicating behavioral anomalies tied to reduced monitoring.
+Fraud rates are higher during nighttime transactions, suggesting increased risk associated with reduced monitoring periods.
 
 ---
 
